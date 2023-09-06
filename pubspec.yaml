@@ -1,7 +1,5 @@
-name: myapp
-description: A exported flutter project from FUNCTION12
-
-
+name: ecommerce2
+description: A new Flutter project.
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -21,7 +19,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: '>=2.18.2 <3.0.0'
+  sdk: '>=3.1.0 <4.0.0'
 
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
@@ -37,7 +35,6 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  google_fonts: ^3.0.1
 
 dev_dependencies:
   flutter_test:
@@ -65,187 +62,6 @@ flutter:
   # assets:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
-  assets:
-    - assets/editable-design/images/iconly-light-heart.png
-    - assets/editable-design/images/group.png
-    - assets/editable-design/images/filter-3-1.png
-    - assets/editable-design/images/iconly-bold-star.png
-    - assets/editable-design/images/iconly-bold-star-m29.png
-    - assets/editable-design/images/insert-picture-icon-16.png
-    - assets/editable-design/images/iconly-bold-star-gUq.png
-    - assets/editable-design/images/iconly-bold-star-gLy.png
-    - assets/editable-design/images/status-bar.png
-    - assets/editable-design/images/insert-picture-icon-14.png
-    - assets/editable-design/images/icon-square.png
-    - assets/editable-design/images/iconly-bold-star-ZeR.png
-    - assets/editable-design/images/icondownoutline.png
-    - assets/editable-design/images/icondownoutline-TP7.png
-    - assets/editable-design/images/property-1home-heart-1.png
-    - assets/editable-design/images/vuesax-linear-search-normal.png
-    - assets/editable-design/images/insert-picture-icon-19.png
-    - assets/editable-design/images/iconly-bold-star-yyK.png
-    - assets/editable-design/images/mask-group.png
-    - assets/editable-design/images/iconly-bold-heart.png
-    - assets/editable-design/images/iconly-light-heart-YGZ.png
-    - assets/editable-design/images/search-icon.png
-    - assets/editable-design/images/iconly-bold-heart-3Wh.png
-    - assets/editable-design/images/property-1default.png
-    - assets/editable-design/images/iconly-bold-star-Vb7.png
-    - assets/editable-design/images/icon-square-riD.png
-    - assets/editable-design/images/mask-group-86D.png
-    - assets/editable-design/images/auto-group-cvms.png
-    - assets/editable-design/images/status-bar-34d.png
-    - assets/editable-design/images/auto-group-cnrf.png
-    - assets/editable-design/images/status-bar-biH.png
-    - assets/editable-design/images/icon-square-tWM.png
-    - assets/editable-design/images/add-circle-outline.png
-    - assets/editable-design/images/icondownoutline-1J9.png
-    - assets/editable-design/images/icondownoutline-YLq.png
-    - assets/editable-design/images/search-icon-sdK.png
-    - assets/editable-design/images/calendar-day.png
-    - assets/editable-design/images/rectangle-46-bg.png
-    - assets/editable-design/images/icondownoutline-Ba9.png
-    - assets/editable-design/images/status-bar-WfB.png
-    - assets/editable-design/images/mask-group-tPB.png
-    - assets/editable-design/images/vector-.png
-    - assets/editable-design/images/insert-picture-icon-17.png
-    - assets/editable-design/images/insert-picture-icon-8.png
-    - assets/editable-design/images/iconly-bold-heart-HKw.png
-    - assets/editable-design/images/insert-picture-icon-18.png
-    - assets/editable-design/images/insert-picture-icon-8-vBs.png
-    - assets/editable-design/images/mask-group-ST3.png
-    - assets/editable-design/images/insert-picture-icon-8-qdb.png
-    - assets/editable-design/images/auto-group-11ry.png
-    - assets/editable-design/images/shopping-cart.png
-    - assets/editable-design/images/insert-picture-icon-8-JcZ.png
-    - assets/editable-design/images/vuesax-linear-search-normal-m1T.png
-    - assets/editable-design/images/battery.png
-    - assets/editable-design/images/icon-eye-empty.png
-    - assets/editable-design/images/vector--44R.png
-    - assets/editable-design/images/icon-lock.png
-    - assets/editable-design/images/icondownoutline-MpD.png
-    - assets/editable-design/images/cellular-connection.png
-    - assets/editable-design/images/iconly-bold-heart-Feh.png
-    - assets/editable-design/images/icon-mail.png
-    - assets/editable-design/images/iconly-bold-star-LAM.png
-    - assets/editable-design/images/icon-mail-J7B.png
-    - assets/editable-design/images/icon-square-reV.png
-    - assets/editable-design/images/calendar-day-zQq.png
-    - assets/editable-design/images/iconly-bold-star-Djw.png
-    - assets/editable-design/images/battery-fLM.png
-    - assets/editable-design/images/status-bar-xqF.png
-    - assets/editable-design/images/rectangle-46-bg-4tH.png
-    - assets/editable-design/images/icondownoutline-fSh.png
-    - assets/editable-design/images/iconly-light-heart-Riq.png
-    - assets/editable-design/images/group-70.png
-    - assets/editable-design/images/insert-picture-icon-8-sbw.png
-    - assets/editable-design/images/spoon.png
-    - assets/editable-design/images/status-bar-tzV.png
-    - assets/editable-design/images/insert-picture-icon-15.png
-    - assets/editable-design/images/wifi.png
-    - assets/editable-design/images/wifi-NBs.png
-    - assets/editable-design/images/cellular-connection-UVo.png
-    - assets/editable-design/images/icon-eye-off.png
-    - assets/editable-design/images/iconly-bold-star-Bv1.png
-    - assets/editable-design/images/mask-group-MJh.png
-    - assets/editable-design/images/wifi-iQ9.png
-    - assets/editable-design/images/icon-lock-5Vb.png
-    - assets/editable-design/images/iconly-bold-star-TeZ.png
-    - assets/editable-design/images/ic-sharp-shopping-cart-checkout.png
-    - assets/editable-design/images/status-bar-wFP.png
-    - assets/editable-design/images/vector-Jfb.png
-    - assets/editable-design/images/vector--hYd.png
-    - assets/editable-design/images/iconly-bold-heart-2xh.png
-    - assets/editable-design/images/property-1default-mFP.png
-    - assets/editable-design/images/property-1home-heart-1-tnD.png
-    - assets/editable-design/images/icondownoutline-SJV.png
-    - assets/editable-design/images/insert-picture-icon-19-uuT.png
-    - assets/editable-design/images/iconly-light-heart-w4m.png
-    - assets/editable-design/images/vector.png
-    - assets/editable-design/images/rectangle-46-bg-12R.png
-    - assets/editable-design/images/auto-group-zrzo.png
-    - assets/editable-design/images/group-avd.png
-    - assets/editable-design/images/iconly-bold-star-KtD.png
-    - assets/editable-design/images/search-icon-tRX.png
-    - assets/editable-design/images/facebook-auth.png
-    - assets/editable-design/images/insert-picture-icon-18-jBo.png
-    - assets/editable-design/images/status-bar-mPP.png
-    - assets/editable-design/images/icondownoutline-7Lm.png
-    - assets/editable-design/images/battery-Pp5.png
-    - assets/editable-design/images/cellular-connection-wKo.png
-    - assets/editable-design/images/pdf.png
-    - assets/editable-design/images/iconly-bold-star-BcV.png
-    - assets/editable-design/images/txt.png
-    - assets/editable-design/images/rectangle-46-bg-5Xw.png
-    - assets/editable-design/images/insert-picture-icon-15-FW9.png
-    - assets/editable-design/images/rectangle-46-bg-cf3.png
-    - assets/editable-design/images/insert-picture-icon-14-S9X.png
-    - assets/editable-design/images/status-bar-d37.png
-    - assets/editable-design/images/icondownoutline-fAh.png
-    - assets/editable-design/images/rectangle-46-bg-wLu.png
-    - assets/editable-design/images/rectangle-46-bg-f7o.png
-    - assets/editable-design/images/google-auth.png
-    - assets/editable-design/images/insert-picture-icon-16-SC9.png
-    - assets/editable-design/images/rectangle-46-bg-Fe1.png
-    - assets/editable-design/images/rectangle-46-bg-KeH.png
-    - assets/editable-design/images/chevron-right.png
-    - assets/editable-design/images/xls.png
-    - assets/editable-design/images/status-bar-gGH.png
-    - assets/editable-design/images/icondownoutline-xFj.png
-    - assets/editable-design/images/status-bar-22d.png
-    - assets/editable-design/images/icondownoutline-ULR.png
-    - assets/editable-design/images/icondownoutline-uVK.png
-    - assets/editable-design/images/doc.png
-    - assets/editable-design/images/rectangle-46-bg-LaM.png
-    - assets/editable-design/images/add24px.png
-    - assets/editable-design/images/mask-group-Z7X.png
-    - assets/editable-design/images/union.png
-    - assets/editable-design/images/chevron-right-UFj.png
-    - assets/editable-design/images/rectangle-46-bg-qGd.png
-    - assets/editable-design/images/rectangle-46-bg-LcH.png
-    - assets/editable-design/images/status-bar-8XK.png
-    - assets/editable-design/images/image-29.png
-    - assets/editable-design/images/pindrop24px.png
-    - assets/editable-design/images/chevron-right-nLH.png
-    - assets/editable-design/images/vector-vxH.png
-    - assets/editable-design/images/icon-check.png
-    - assets/editable-design/images/insert-picture-icon-17-9tV.png
-    - assets/editable-design/images/filter-3-1-ktH.png
-    - assets/editable-design/images/status-bar-Euo.png
-    - assets/editable-design/images/status-bar-aTs.png
-    - assets/editable-design/images/image-22.png
-    - assets/editable-design/images/icon-check-HW1.png
-    - assets/editable-design/images/image-14.png
-    - assets/editable-design/images/chevronright24px.png
-    - assets/editable-design/images/image-30.png
-    - assets/editable-design/images/insert-picture-icon-8-DYD.png
-    - assets/editable-design/images/emoji.png
-    - assets/editable-design/images/image-24.png
-    - assets/editable-design/images/add24px-6ru.png
-    - assets/editable-design/images/union-4Hw.png
-    - assets/editable-design/images/icon-check-Pr1.png
-    - assets/editable-design/images/image-32.png
-    - assets/editable-design/images/image-31.png
-    - assets/editable-design/images/status-bar-uJZ.png
-    - assets/editable-design/images/mask-group-PUd.png
-    - assets/editable-design/images/icondownoutline-21o.png
-    - assets/editable-design/images/icon-check-htd.png
-    - assets/editable-design/images/image-23.png
-    - assets/editable-design/images/image-28.png
-    - assets/editable-design/images/insert-picture-icon-8-fmT.png
-    - assets/editable-design/images/icondownoutline-zYq.png
-    - assets/editable-design/images/picture.png
-    - assets/editable-design/images/image-18.png
-    - assets/thumbnail/images/product-details-page.png
-    - assets/editable-design/images/auto-group-gnk3.png
-    - assets/editable-design/images/rectangle-46-bg-mkM.png
-    - assets/editable-design/images/iconly-light-heart-iQh.png
-    - assets/thumbnail/images/group-9.png
-    - assets/editable-design/images/image-14-Q6M.png
-    - assets/editable-design/images/image-14-YyF.png
-    - assets/editable-design/images/status-bar-1AZ.png
-    - assets/thumbnail/images/home-page.png
-    - assets/thumbnail/images/search-screen.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
