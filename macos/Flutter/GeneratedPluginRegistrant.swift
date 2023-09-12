@@ -5,6 +5,7 @@
 import FlutterMacOS
 import Foundation
 
+<<<<<<< HEAD
 import facebook_auth_desktop
 import firebase_auth
 import firebase_core
@@ -15,4 +16,8 @@ func RegisterGeneratedPlugins(registry: FlutterPluginRegistry) {
   FLTFirebaseAuthPlugin.register(with: registry.registrar(forPlugin: "FLTFirebaseAuthPlugin"))
   FLTFirebaseCorePlugin.register(with: registry.registrar(forPlugin: "FLTFirebaseCorePlugin"))
   FlutterSecureStoragePlugin.register(with: registry.registrar(forPlugin: "FlutterSecureStoragePlugin"))
+=======
+
+func RegisterGeneratedPlugins(registry: FlutterPluginRegistry) {
+>>>>>>> 10429ba8256c7f904273d2554f938d15beeaafd7
 }

@@ -40,11 +40,19 @@ static void my_application_activate(GApplication* application) {
   if (use_header_bar) {
     GtkHeaderBar* header_bar = GTK_HEADER_BAR(gtk_header_bar_new());
     gtk_widget_show(GTK_WIDGET(header_bar));
+<<<<<<< HEAD
     gtk_header_bar_set_title(header_bar, "ecommerce_petrolab");
     gtk_header_bar_set_show_close_button(header_bar, TRUE);
     gtk_window_set_titlebar(window, GTK_WIDGET(header_bar));
   } else {
     gtk_window_set_title(window, "ecommerce_petrolab");
+=======
+    gtk_header_bar_set_title(header_bar, "ecommerce2");
+    gtk_header_bar_set_show_close_button(header_bar, TRUE);
+    gtk_window_set_titlebar(window, GTK_WIDGET(header_bar));
+  } else {
+    gtk_window_set_title(window, "ecommerce2");
+>>>>>>> 10429ba8256c7f904273d2554f938d15beeaafd7
   }
 
   gtk_window_set_default_size(window, 1280, 720);

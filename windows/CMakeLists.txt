@@ -1,10 +1,18 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
 project(ecommerce_petrolab LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "ecommerce_petrolab")
+=======
+project(ecommerce2 LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "ecommerce2")
+>>>>>>> 10429ba8256c7f904273d2554f938d15beeaafd7
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

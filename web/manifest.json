@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "ecommerce_petrolab",
     "short_name": "ecommerce_petrolab",
+=======
+    "name": "ecommerce2",
+    "short_name": "ecommerce2",
+>>>>>>> 10429ba8256c7f904273d2554f938d15beeaafd7
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

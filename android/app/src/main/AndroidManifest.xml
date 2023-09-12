@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="ecommerce_petrolab"
+=======
+        android:label="ecommerce2"
+>>>>>>> 10429ba8256c7f904273d2554f938d15beeaafd7
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

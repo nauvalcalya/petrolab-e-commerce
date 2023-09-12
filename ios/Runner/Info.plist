@@ -5,7 +5,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>Ecommerce Petrolab</string>
+=======
+	<string>Ecommerce2</string>
+>>>>>>> 10429ba8256c7f904273d2554f938d15beeaafd7
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +17,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>ecommerce_petrolab</string>
+=======
+	<string>ecommerce2</string>
+>>>>>>> 10429ba8256c7f904273d2554f938d15beeaafd7
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

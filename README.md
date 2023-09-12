@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # ecommerce_petrolab
+=======
+# ecommerce2
+>>>>>>> 10429ba8256c7f904273d2554f938d15beeaafd7
 
 A new Flutter project.
 
