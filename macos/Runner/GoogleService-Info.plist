@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCL9jrWqCdeU8-dW2_Nu4vsZhq_Fkl16vE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>352479093341</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ecommercePetrolab.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>ecommerce-petrolab</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ecommerce-petrolab.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:352479093341:ios:765fd46b1dd2259309a3b4</string>
+</dict>
+</plist>
