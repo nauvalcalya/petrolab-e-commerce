@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:ecommerce_petrolab/presentation/widgets/home_widgets.dart';
 import 'package:ecommerce_petrolab/presentation/controllers/home_controller.dart';
-
 class HomePage extends StatelessWidget {
   HomePage({ super.key });
   final ProductController productController = Get.put(ProductController());
